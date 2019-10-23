@@ -1,3 +1,6 @@
+#hello-world
+I'm Ruth.  I making edits to this read me doc for practice using Git/Github.
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
