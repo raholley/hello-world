@@ -1,5 +1,7 @@
-# Welcome to GitHub
+# hello-world 
 
+# Welcome to GitHub
+**I'm Ruth.  I making edits to this read me doc for practice using Git/Github.** Make sure to preview the changes first before committing the changes.
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
 ## Repositories
