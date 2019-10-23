@@ -1,5 +1,6 @@
-#hello-world
-I'm Ruth.  I making edits to this read me doc for practice using Git/Github.
+# hello-world
+
+# I'm Ruth.  I making edits to this read me doc for practice using Git/Github.
 
 # Welcome to GitHub
 
